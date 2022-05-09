@@ -1,0 +1,18 @@
+- **About Renewal**
+  - MISSION & VALUES
+  - 現状で提供する予定の機能
+  - 現状で必要になる予定の仕事・役割
+  - ß リリース後について
+- **About Service**
+  - Leaflet
+  - Breeze
+- **About Development**
+  - 技術の全体像
+  - Next.js
+  - Cloudfrare pages
+  - Tailwind CSS
+  - Storybook
+  - Google Analytics
+  - Sentry
+  - getform.io
+  - 開発の進め方
