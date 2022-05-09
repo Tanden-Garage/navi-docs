@@ -1,18 +1,17 @@
 - **About Renewal**
-  - MISSION & VALUES
-  - 現状で提供する予定の機能
-  - 現状で必要になる予定の仕事・役割
-  - ß リリース後について
+
+  - [MISSION & VALUES](/about-renewal/mission-and-values)
+  - [プロダクトについて](/about-renewal/product)
+  - [チームについて](/about-renewal/team)
+
 - **About Service**
-  - Leaflet
-  - Breeze
+
+  - [Leaflet](/about-service/leaflet)
+  - [Breeze](/about-service/breeze)
+
 - **About Development**
-  - 技術の全体像
-  - Next.js
-  - Cloudfrare pages
-  - Tailwind CSS
-  - Storybook
-  - Google Analytics
-  - Sentry
-  - getform.io
-  - 開発の進め方
+
+  - [開発の全体像](/about-dev/overall)
+  - [navi ß](/about-dev/navi-ß)
+  - [管理画面](/about-dev/management-app)
+  - [navi-docs](/about-dev/)
