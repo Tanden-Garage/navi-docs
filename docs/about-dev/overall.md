@@ -2,7 +2,11 @@
 
 ## navi ß
 
-TODO: 図を用意
+大体これといっしょ。[引用元](https://zenn.dev/siino/articles/66c40d1187ee38)
+
+ただし Vercel→Cloudfrare Pages なのと、ビルドや通知周りはまだ詳しく決めていない。
+
+![](https://storage.googleapis.com/zenn-user-upload/06306c279f8c-20220505.png)
 
 ### 主要な技術
 
