@@ -1,12 +1,36 @@
 # Breeze について
 
-## 編集体制
+## サービス概要
 
-- hoge
-- fuga
--
+北海道大学の団体への独自インタビューを通して見えた彼らの世界観を語るブログのようなサービスです。1 つの企画は複数記事の連載から成ります。
 
-## 編集フロー
+## 成し遂げたいこと
 
-- hoge
-- fuga
+ざわめき...
+
+## Breeze を支える技術
+
+microCMS で管理しているコンテンツを API で取得し、Next.js SSG という技術で静的ページを生成。Cloudfrare Pages の CDN でキャッシングして高速に配信します。
+
+## 構造
+
+TODO: ER 図
+
+```mermaid
+erDiagram
+    CAR ||--o{ NAMED-DRIVER : allows
+    CAR {
+        string registrationNumber
+        string make
+        string model
+    }
+    PERSON ||--o{ NAMED-DRIVER : is
+    PERSON {
+        string firstName
+        string lastName
+        int age
+    }
+
+```
+
+## 制作フロー
